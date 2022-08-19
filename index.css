@@ -1,0 +1,13 @@
+nav a {
+  color: rgb(218, 10, 10);
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: dotted;
+}
+header,
+footer {
+  nav {
+    display: inline block;
+  }
+}
