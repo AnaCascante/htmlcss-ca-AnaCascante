@@ -1,13 +1,12 @@
-nav a {
-  color: rgb(218, 10, 10);
-  text-decoration: none;
+@font-face {
+  font-family: "Roboto mono", monospace;
+  src: url(https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap);
 }
-nav a:hover {
-  text-decoration: dotted;
+body {
+  margin: 0%;
+  padding: 0%;
+  background: url(images\waterfall.jpg);
 }
-header,
-footer {
-  nav {
-    display: inline block;
-  }
+html {
+  font-family: "Roboto mono", Verdana, Tahoma, sans-serif;
 }
