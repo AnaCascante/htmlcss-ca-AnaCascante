@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "Roboto mono", monospace;
+  src: url(https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap)
+    format ("truetype");
+}
+
+body {
+  font-family: "Roboto mono", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  margin: 0%;
+  padding: 0%;
+  background: url(images\waterfall.jpg);
+}
+
+html {
+  font-family: "Roboto mono", Verdana, Tahoma, sans-serif;
+}
+
+.logo {
+  width: fit-content;
+  max-width: 30%;
+  z-index: 100%;
+}
+
+nav li {
+  display: inline-block;
+  color: white;
+  text-decoration: dotted;
+}
+
+header {
+  background-color: #0a3641;
+}
+
+.active {
+  color: white;
+}
+
+.cta-buttom {
+  background: #f2921d;
+}
+
+.waterfall {
+  background-image: url(../images/waterfall.jpg);
+  background-size: cover;
+  opacity: 30%;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: -1;
+  opacity: 30%;
+}

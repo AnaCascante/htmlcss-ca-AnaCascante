@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="This is my index page of my first website page coding, course assigment HTML and CSS">
-  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="css/style.css">
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap" rel="stylesheet">
 <title>Rainydays | Home</title>
 </head>
@@ -23,26 +23,29 @@
       </ul>
     </nav>
   </header>
-  <main>
+  <main class="waterfall">
     <div>
-      <img src="images\RainyDays_Logo white.png" alt="logoRainydays">
+      <img src="images\RainyDays_Logo white.png" alt="logoRainydays" class="logo">
     </div>
     <div>
       <img src="images\waterfall.jpg" alt="waterfall">
     </div>
-    <button>Products</button>
-    <button>New collection</button>
-    <button>Outlet</button>
-    <div>
-      <img src="images\downhillski.jpg" alt="downhillski">
-      <img src="images\iso-republic-hiking-0768.jpg" alt="monting a tent in the mountain">
-      <img src="images\yellowkayakk.jpg" alt="yellowkayakk on the river">
-    </div>
-  
+    <section>
+      <button>Products <a href="procucts/list of jackets.html"class="cta-buttom"></a></button>
+      <button>New collection</button class="cta-buttom" >
+      <button>Outlet</button class="cta-buttom">
+    </section>
+    <section>
+      <div>
+        <img src="images\downhillski.jpg" alt="downhillski" class="index_images" >
+        <img src="images\iso-republic-hiking-0768.jpg" alt="monting a tent in the mountain"class="index_images">
+        <img src="images\yellowkayakk.jpg" alt="yellowkayakk on the river"class="index_images">
+      </div>
+    </section>
 
 
   </main>
-  <footer>
+  <footer class="waterfall">
     <section>
       <nav>
         <img src="icons\icone-mail.png" alt="e-mail"> <a href="contact.html">contact</a>
