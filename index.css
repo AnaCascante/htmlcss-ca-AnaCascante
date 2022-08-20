@@ -10,3 +10,18 @@ body {
 html {
   font-family: "Roboto mono", Verdana, Tahoma, sans-serif;
 }
+
+nav li {
+  display: inline-block;
+  color: white;
+  text-decoration: dotted;
+}
+
+nav ul {
+  background-color: #0a3641;
+  padding: 0px center 60px;
+}
+
+.active {
+  color: white;
+}
