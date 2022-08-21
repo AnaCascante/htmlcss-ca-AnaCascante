@@ -102,6 +102,13 @@ button {
   grip-gap: 5 px
 }
 
+/*clear floats after the columns*/
+.column:after {
+  content;
+  display: table;
+  clear: both; 
+}
+
 .jackets {
   width: fit-content;
   height: fit-content;
@@ -119,12 +126,7 @@ button {
   padding: auto;
 }
 
-/*clear floats after the columns*/
-.column:after {
-  content;
-  display: table;
-  clear: both; 
-}
+
   
 .jacketschoice {
   display:inline;
@@ -133,4 +135,24 @@ button {
   margin-right: 200px;
   margin-bottom: 50px;
   margin-top: 50px;
+}
+
+.contact {
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  max-width: 950px;
+  margin: 0 auto
+}
+
+.contact 1 {
+  
+}
+ 
+.contact 2 {
+  margin: 0px;
+  
+}
+
+.contact 3 {
+
 }
