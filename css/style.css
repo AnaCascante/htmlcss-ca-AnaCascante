@@ -27,7 +27,7 @@ header {
 
 .active {
   color: white;
-  padding: 80px;
+  padding: 70px;
 }
 
 .waterfall {
@@ -76,8 +76,8 @@ button {
 .yellowgirl {
   width: fit-content;
   height: fit-content;
-  width: 150px;
-  height: 150px;
+  width: 400px;
+  height: 300px;
   max-width: 50%;
   max-height: 50%;
   padding-left: 50%;
@@ -90,7 +90,7 @@ button {
   height: 150px;
   max-width: 50%;
   max-height: 50%;
-  padding-left: 50%;
+  padding-left: 100%;
 }
 
 /*create 5 columns that floats next to each other*/
@@ -144,15 +144,53 @@ button {
   margin: 0 auto
 }
 
-.contact 1 {
-  
+.orangejacket-1{
+  display:inline-flex
+  -moz-grid-line
 }
- 
-.contact 2 {
-  margin: 0px;
-  
+.sendform label {
+  display: block;
 }
 
-.contact 3 {
-
+.footer {
+  display: inline-block;
 }
+
+.orangejacket {
+  width: fit-content;
+  height: fit-content;
+  width: 400px;
+  height: 300px;
+  max-width: 50%;
+  max-height: 50%;
+  padding-left: 50%;
+}
+
+.girllake {
+  width: fit-content;
+  height: fit-content;
+  width: 400px;
+  height: 300px;
+  max-width: 50%;
+  max-height: 50%;
+  padding-left: 50%;
+}
+
+.addtocart{
+  font-size: 60px;
+  padding: auto;
+}
+
+#shoppingcart {
+  background-color: #F2921D;
+}
+
+.orangejacket2 {
+  width: fit-content;
+  height: fit-content;
+  width: 200px;
+  height: 300px;
+  max-width: 50%;
+  max-height: 50%;
+}
+
