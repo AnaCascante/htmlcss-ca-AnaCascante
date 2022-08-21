@@ -8,3 +8,62 @@
 body {
   font-family: "Roboto mono", Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.logo { 
+  width: fit-content; 
+  max-width: 30%; 
+} 
+
+nav li { 
+  display: inline-block; 
+  color: white; 
+  text-decoration: dotted; 
+} 
+
+header { 
+  background-color: #0a3641; 
+  color: white;
+} 
+
+.active {
+  color: white;
+}
+
+.waterfall {
+  background-position: right;
+  width: fit-content;
+  max-width: 20%;
+}
+
+button {
+  background-color: white;
+  border-color: #F2921D;
+  border-style: solid;
+  color: #F2921D;
+  font-size: large;
+  font-weight: bold;
+  border-width: 5px;
+  border-radius: 30px;
+  cursor: pointer;
+  padding-left: 60px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 60px;
+}
+
+.buttonlist {
+  display: inline;
+  position: relative;
+}
+
+.downhillski , .mountingtent , .yellowkayak {
+  width: fit-content;
+  height: fit-content;
+  width: 350px;
+  height: 350px;
+  max-width: 50%;
+  max-height: 50%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
