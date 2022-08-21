@@ -27,6 +27,7 @@ header {
 
 .active {
   color: white;
+  padding: 80px;
 }
 
 .waterfall {
@@ -52,9 +53,14 @@ button {
 }
 
 .buttonlist {
-  display: inline;
-  position: relative;
+  display:inline;
+  position:inherit;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 50px;
+  margin-top: 50px;
 }
+
 
 .downhillski , .mountingtent , .yellowkayak {
   width: fit-content;
@@ -67,3 +73,64 @@ button {
   margin-right: 30px;
 }
 
+.yellowgirl {
+  width: fit-content;
+  height: fit-content;
+  width: 150px;
+  height: 150px;
+  max-width: 50%;
+  max-height: 50%;
+  padding-left: 50%;
+}
+
+.girltopmountain {
+  width: fit-content;
+  height: fit-content;
+  width: 150px;
+  height: 150px;
+  max-width: 50%;
+  max-height: 50%;
+  padding-left: 50%;
+}
+
+/*create 5 columns that floats next to each other*/
+.gallery {
+  width: 90%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grip-gap: 5 px
+}
+
+.jackets {
+  width: fit-content;
+  height: fit-content;
+  width: 150px;
+  height: 200px;
+  max-width: 50%;
+  max-height: 50%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.column {
+  float: left;
+  width: 30%;
+  padding: auto;
+}
+
+/*clear floats after the columns*/
+.column:after {
+  content;
+  display: table;
+  clear: both; 
+}
+  
+.jacketschoice {
+  display:inline;
+  position:inherit;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
