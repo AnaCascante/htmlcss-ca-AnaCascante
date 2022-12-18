@@ -27,7 +27,7 @@ header {
 
 .active {
   color: white;
-  padding: 70px;
+  padding: 30px 70px;
 }
 
 .waterfall {
@@ -46,19 +46,14 @@ button {
   border-width: 5px;
   border-radius: 30px;
   cursor: pointer;
-  padding-left: 60px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-right: 60px;
+  padding: 5px 60px;
+  margin: 10px 60px;
 }
 
 .buttonlist {
   display:inline;
   position:inherit;
-  margin-left: 200px;
-  margin-right: 200px;
-  margin-bottom: 50px;
-  margin-top: 50px;
+  margin: 50px 200px;
 }
 
 
