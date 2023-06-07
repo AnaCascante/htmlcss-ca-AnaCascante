@@ -9,6 +9,15 @@ body {
   font-family: "Roboto mono", Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* continue working on putting the background pic!!! 
+.container {
+  background-image: url('imgates/.waterfall.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(red, green, blue, 0.5);
+}*/
+
 .logo { 
   width: fit-content; 
   max-width: 30%; 
