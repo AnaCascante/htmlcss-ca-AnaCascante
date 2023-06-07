@@ -23,11 +23,15 @@ nav li {
 header { 
   background-color: #0a3641; 
   color: white;
+  padding: 20px
 } 
 
 .active {
   color: white;
-  padding: 30px 70px;
+  padding: 30px 100px;
+  margin: 0 60px;
+  text-decoration: none;
+  font-size: 1.5rem;
 }
 
 .waterfall {
