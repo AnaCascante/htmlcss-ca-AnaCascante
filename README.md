@@ -1,7 +1,7 @@
 
 # Rainydays 
 
-![Alt text](<img/good food good mood-biglogo.png>)
+![Alt text](<images/RainyDays_Logo white.png>)
 
 This is the cross-course project, that we have been using throw the first semester of the study. Study Front-end development in Noroff university. This was my first contact with HTML,CSS and Javascript. The project is a work in process, looking forward to improve it now that I have a better knowleadge of the tech stacks. 
 
