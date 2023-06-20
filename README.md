@@ -5,7 +5,7 @@
 
 This is the cross-course project, that we have been using throw the first semester of the study. Study Front-end development in Noroff university. This was my first contact with HTML,CSS and Javascript. The project is a work in process, looking forward to improve it now that I have a better knowleadge of the tech stacks. 
 
-## Description
+## Description (descrive with my own words) 
 
 Course Assignment
 Brief
