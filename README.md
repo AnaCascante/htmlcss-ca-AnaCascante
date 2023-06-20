@@ -43,8 +43,12 @@ Those are the tech stacks used to built this project
 ### Installing
 
 
-Here is a link to my project in Github: https://github.com/AnaCascante/htmlcss-ca-AnaCascante.git 
+Here is a link to my project in Github: 
 
+```$ git clone github.com/AnaCascante/htmlcss-ca-AnaCascante.git```
+
+Install the dependencies:
+Visual studio Code- 
 
 And a link to the livedemo side: https://tourmaline-cactus-dc22c1.netlify.app
 
