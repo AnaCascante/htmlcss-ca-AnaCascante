@@ -45,7 +45,7 @@ Those are the tech stacks used to built this project
 
 Here is a link to my project in Github: 
 
-```$ git clone github.com/AnaCascante/htmlcss-ca-AnaCascante.git```
+```$ git clone https://github.com/AnaCascante/htmlcss-ca-AnaCascante.git```
 
 
 And a link to the livedemo side: https://tourmaline-cactus-dc22c1.netlify.app
