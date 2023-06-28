@@ -8,7 +8,7 @@ This is the cross-course project, that we have been using throw the first semest
 ## Description (descrive with my own words) 
 
 Course Assignment
-This is the first website build during this first year of study. The page started with the use of HTML and CSS and should be further develope with Javascript. The CMS of javascript is still in procress of development. 
+This is the first website build during this first year of study. The page started with the use of HTML and CSS and was further develope with Javascript.
 After finishing my first year, I can see many posibilities of improvement on this website and I am planning to continue working improving the project. 
 
 ## Built With
@@ -31,15 +31,16 @@ Here is a link to my project in Github:
 
 ```$ git clone https://github.com/AnaCascante/htmlcss-ca-AnaCascante.git```
 
+## Visit the side 
 
-And a link to the livedemo side: https://tourmaline-cactus-dc22c1.netlify.app
+Link to the livedemo side: https://tourmaline-cactus-dc22c1.netlify.app
 
 
 ## Contact
 
 github: https://github.com/AnaCascante
 
-linkedin: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+linkedin: https://www.linkedin.com/in/ana-cascante-de-quadras-4301521a/
 
 
 ## Acknowledgments
